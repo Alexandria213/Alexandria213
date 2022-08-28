@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alexandria213
 - 👀 I’m interested in anything!
-- 🌱 I’m currently learning SQL and JavaScript
-- 💞️ I’m looking to collaborate on projects and papers :)
+- 🌱 I’m currently learning R
 - 📫 How to reach me email at alexandriacade0@gmail.com
 
 <!---
